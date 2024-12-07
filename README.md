@@ -4,6 +4,10 @@ This project demonstrates a text generation model based on **LSTM (Long Short-Te
 
 ---
 
+[![Try Now](https://img.shields.io/badge/Try%20Now-Click%20Here-brightgreen)](https://colab.research.google.com/drive/1RCzPw1qBNEEfH1hgGpiKxWCFQoRxPuMa?usp=sharing)
+
+---
+
 ## Features
 
 1. **Character-Level Language Model**: Trained to predict the next character in a sequence.
