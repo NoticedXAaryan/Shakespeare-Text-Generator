@@ -4,7 +4,9 @@ This project demonstrates a text generation model based on **LSTM (Long Short-Te
 
 ---
 
-[![Try Now](https://img.shields.io/badge/Try%20Now-Click%20Here-brightgreen)](https://colab.research.google.com/drive/1RCzPw1qBNEEfH1hgGpiKxWCFQoRxPuMa?usp=sharing)
+<Center>
+  [![Try Now](https://img.shields.io/badge/Try%20Now-Click%20Here-brightgreen)](https://colab.research.google.com/drive/1RCzPw1qBNEEfH1hgGpiKxWCFQoRxPuMa?usp=sharing)
+</Center>
 
 ---
 
@@ -29,8 +31,8 @@ This project demonstrates a text generation model based on **LSTM (Long Short-Te
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/NoticedXAaryan/Shakespeare-Text-Generator.git
+   cd Shakespeare-Text-Generator
    ```
 
 2. Install required Python packages:
