@@ -4,9 +4,12 @@ This project demonstrates a text generation model based on **LSTM (Long Short-Te
 
 ---
 
-<Center>
-  [![Try Now](https://img.shields.io/badge/Try%20Now-Click%20Here-brightgreen)](https://colab.research.google.com/drive/1RCzPw1qBNEEfH1hgGpiKxWCFQoRxPuMa?usp=sharing)
-</Center>
+<div align="center">
+  <a href="https://colab.research.google.com/drive/1RCzPw1qBNEEfH1hgGpiKxWCFQoRxPuMa?usp=sharing">
+    <img src="https://img.shields.io/badge/Try%20Now-Click%20Here-brightgreen" alt="Try Now">
+  </a>
+</div>
+
 
 ---
 
